@@ -321,7 +321,7 @@ border-radius: 50% / 100%; /* makes a gentle arch */
 .cards:nth-child(3) { background-image: url("../images/raid2.jpg"); }
 .cards:nth-child(4) { background-image: url("../images/sarejahan.jpg"); }
 .cards:nth-child(5) { background-image: url("../images/squidgame.jpg"); }
-.cards:nth-child(6) { background-image: url("../images/mandalamurders.jpg"); }
+.cards:nth-child(6) { background-image: url("../images/mandala_murders.jpg"); }
 .cards:nth-child(7) { background-image: url("../images/jaat.jpg"); }
 .cards:nth-child(8) { background-image: url("../images/aapjesa.jpg"); }
 .cards:nth-child(9) { background-image: url("../images/hit.jpg"); }
