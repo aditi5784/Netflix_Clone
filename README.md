@@ -24,7 +24,7 @@ CSS3 – styling and responsiveness
 JavaScript – for interactions
 
 # How to Run the Project
-https://github.com/aditi5784/Netflix-Clone.git
+https://github.com/aditi5784/Netflix_Clone.git
 
 # Acknowledgements
 
