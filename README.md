@@ -62,20 +62,19 @@ Real-time display of risk level & generated advice
 
 
 ├── model/
-│     └── diabetes_model.pkl        # Trained ML model
+ diabetes_model.pkl        # Trained ML model
 
 
 ├── data/
-│     ├── diabetes.csv              # Training dataset
-│     └── predictions.csv           # Prediction logs
+ diabetes.csv ,             # Training dataset
+ predictions.csv           # Prediction logs
 
 
 ├── templates/
-│     └── index.html                # Frontend UI
+index.html                # Frontend UI
 
 
-├── static/
-│     └── style.css                 # Stylesheet
+├── static/style.css                 # Stylesheet
 
 └── README.md                       # Documentation
 
