@@ -1,6 +1,6 @@
-Diabetes Risk Prediction System
+# Diabetes Risk Prediction System
 
-A Machine Learning–Enabled Clinical Decision Support Web Application
+## A Machine Learning–Enabled Clinical Decision Support Web Application
 
 ## 1. Introduction
 
@@ -17,7 +17,7 @@ Academic research & demonstrations
 Digital health education platforms
 
 ## 2. Key Features
-# 2.1 Predictive Machine Learning
+ 2.1 Predictive Machine Learning
 
 Logistic Regression classifier trained on the Pima Indians Diabetes Dataset
 
@@ -25,7 +25,7 @@ Fast prediction via serialized model loading (joblib)
 
 Accurate binary classification (High / Low risk)
 
-# 2.2 Personalized Health Advisory Engine
+ 2.2 Personalized Health Advisory Engine
 
 Automatically generates tailored feedback based on:
 
@@ -37,7 +37,7 @@ Blood pressure
 
 Insulin resistance patterns
 
-# 2.3 Automated Prediction Logging
+ 2.3 Automated Prediction Logging
 
 Each prediction is recorded in:
 
@@ -46,7 +46,7 @@ data/predictions.csv
 
 This enables traceability, auditability, and long-term data analysis.
 
-# 2.4 Modern, Responsive Web Interface
+ 2.4 Modern, Responsive Web Interface
 
 UI built using HTML, CSS
 
@@ -66,8 +66,8 @@ Real-time display of risk level & generated advice
 
 
 ├── data/
- diabetes.csv ,             # Training dataset
- predictions.csv           # Prediction logs
+ diabetes.csv ,            
+ predictions.csv           
 
 
 ├── templates/
