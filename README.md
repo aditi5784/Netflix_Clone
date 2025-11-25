@@ -66,8 +66,7 @@ Real-time display of risk level & generated advice
 
 
 ├── data/
- diabetes.csv ,            
- predictions.csv           
+ diabetes.csv , predictions.csv           
 
 
 ├── templates/
