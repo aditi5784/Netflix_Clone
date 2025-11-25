@@ -57,21 +57,26 @@ Real-time display of risk level & generated advice
 ## 3. Directory Structure
 .
 │── app.py                          # Main Flask application
+
 │── train_model.py                  # Model training script
-│
+
+
 ├── model/
 │     └── diabetes_model.pkl        # Trained ML model
-│
+
+
 ├── data/
 │     ├── diabetes.csv              # Training dataset
 │     └── predictions.csv           # Prediction logs
-│
+
+
 ├── templates/
 │     └── index.html                # Frontend UI
-│
+
+
 ├── static/
 │     └── style.css                 # Stylesheet
-│
+
 └── README.md                       # Documentation
 
 ## 4. Installation & Setup
